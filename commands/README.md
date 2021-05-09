@@ -246,8 +246,9 @@ This repository contains sample commands and documentation to write your own one
 
 | Icon | Title | Description | Author | Args | Templ | Lang |
 | ---- | ----- | ----------- | ------ | ---- | ----- | ---- |
-  | 📖 | [Translate to EN](apps/translate-shell/translate-to-en.sh) | translate and copy brief translation to clipboard | [tiancheng92](https://github.com/tiancheng92) | ✅ |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
-  | 📖 | [Translate to ZH](apps/translate-shell/translate-to-zh.sh) | translate and copy brief translation to clipboard | [tiancheng92](https://github.com/tiancheng92) | ✅ |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
+  | 🌍 | [Translate Shell](apps/translate-shell/translate-shell-language-pair.py) | Translate text using translate-shell. | [Marcel Bochtler](https://github.com/MarcelBochtler) | ✅ |  | <img src="images/icon-python.png" width="20" height="20" title="Python"> |
+  | 📖 | [Translate to EN](apps/translate-shell/translate-to-en.sh) | Translate and copy brief translation to clipboard. | [tiancheng92](https://github.com/tiancheng92) | ✅ |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
+  | 📖 | [Translate to ZH](apps/translate-shell/translate-to-zh.sh) | Translate and copy brief translation to clipboard. | [tiancheng92](https://github.com/tiancheng92) | ✅ |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
 
 #### Tunnelblick
 
@@ -738,6 +739,7 @@ This repository contains sample commands and documentation to write your own one
   | <img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/web-searches/./images/ddbicon.png" width="20" height="20"> | [Search in DnDBeyond.com](web-searches/search-in-dndbeyond.sh) | N/A | [Chris Koerner Zeller](https://github.com/ChessMess) | ✅ |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
   | <img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/web-searches/images/duck-duck-go.png" width="20" height="20"> | [Search in DuckDuckGo](web-searches/duck-duck-go.sh) | N/A | Raycast | ✅ |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
   | <img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/web-searches/images/ecosia.png" width="20" height="20"> | [Search in Ecosia](web-searches/ecosia.sh) | N/A | [Sasivarnan R](https://github.com/sasivarnan) | ✅ |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
+  | 🔎 | [Search in Emojipedia](web-searches/search-emojipedia.sh) | Search for emojis at emojipedia. | [Benedict Neo](https://github.com/benthecoder) | ✅ |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
   | <img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/web-searches/images/figma.png" width="20" height="20"> | [Search in Figma](web-searches/figma.sh) | Search files in Figma | [Tanguy Le Stradic](https://github.com/tanguyls) | ✅ |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
   | <img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/web-searches/images/google.png" width="20" height="20"> | [Search in Google](web-searches/google-search.sh) | N/A | Raycast | ✅ |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
   | <img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/web-searches/images/jingdong.png" width="20" height="20"> | [Search in Jingdong](web-searches/search-in-jingdong.sh) | N/A | [sunbufu](https://sunbufu.github.io/) | ✅ |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
